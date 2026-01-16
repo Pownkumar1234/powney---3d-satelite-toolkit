@@ -1,0 +1,407 @@
+﻿
+src\index.ts:6: * htt
+ps://keeptrack.space
+src\index.ts:12: * 
+under the MIT 
+License. Please 
+reference https://kee
+ptrack.space/license/
+thingsinspace.txt
+src\keeptrack.ts:5: 
+* https://keeptrack.s
+pace
+src\keeptrack.ts:11: 
+* under the MIT 
+License. Please 
+reference https://kee
+ptrack.space/license/
+thingsinspace.txt
+src\keeptrack.ts:155:
+            <a href="
+https://keeptrack.spa
+ce" target="_blank">
+src\main.ts:5: * http
+s://keeptrack.space
+src\app\analysis\sat-
+math.ts:6: * https://
+keeptrack.space
+src\app\data\catalog-
+manager.ts:6: * https
+://keeptrack.space
+src\app\data\catalog-
+manager.ts:12: * 
+under the MIT 
+License. Please 
+reference https://kee
+ptrack.space/license/
+thingsinspace.txt
+src\app\data\catalog-
+search.ts:6: * https:
+//keeptrack.space
+src\app\data\groups-m
+anager.ts:7: * https:
+//keeptrack.space
+src\app\sensors\senso
+rManager.ts:8: * http
+s://keeptrack.space
+src\app\ui\ui-manager
+.ts:5: * https://keep
+track.space
+src\app\ui\ui-manager
+.ts:11: * under the 
+MIT License. Please 
+reference https://kee
+ptrack.space/license/
+thingsinspace.txt
+src\engine\camera\cam
+era.ts:6: * https://k
+eeptrack.space
+src\engine\math\sat-m
+ath-api.ts:7: * https
+://keeptrack.space
+src\engine\ootk\src\c
+oordinate\Tle.ts:461:
+   * Some websites 
+like https://KeepTrac
+k.space and 
+Celestrak.org will 
+embed
+src\engine\plugins\to
+p-menu-plugin.ts:4: 
+* https://keeptrack.s
+pace
+src\engine\rendering\
+color-scheme-manager.
+ts:7: * https://keept
+rack.space
+src\engine\rendering\
+draw-manager\earth.ts
+:4: * https://keeptra
+ck.space
+src\engine\rendering\
+draw-manager\godrays.
+ts:18: * https://keep
+track.space
+src\engine\rendering\
+draw-manager\sun.ts:4
+: * https://keeptrack
+.space
+src\engine\rendering\
+draw-manager\celestia
+l-bodies\jupiter.ts:4
+: * https://keeptrack
+.space
+src\engine\rendering\
+draw-manager\celestia
+l-bodies\makemake.ts:
+4: * https://keeptrac
+k.space
+src\engine\rendering\
+draw-manager\celestia
+l-bodies\mars.ts:4: 
+* https://keeptrack.s
+pace
+src\engine\rendering\
+draw-manager\celestia
+l-bodies\mercury.ts:4
+: * https://keeptrack
+.space
+src\engine\rendering\
+draw-manager\celestia
+l-bodies\moon.ts:4: 
+* https://keeptrack.s
+pace
+src\engine\rendering\
+draw-manager\celestia
+l-bodies\neptune.ts:4
+: * https://keeptrack
+.space
+src\engine\rendering\
+draw-manager\celestia
+l-bodies\pluto.ts:4: 
+* https://keeptrack.s
+pace
+src\engine\rendering\
+draw-manager\celestia
+l-bodies\saturn-rings
+.ts:4: * https://keep
+track.space
+src\engine\rendering\
+draw-manager\celestia
+l-bodies\saturn.ts:4:
+ * https://keeptrack.
+space
+src\engine\rendering\
+draw-manager\celestia
+l-bodies\uranus-rings
+.ts:4: * https://keep
+track.space
+src\engine\rendering\
+draw-manager\celestia
+l-bodies\uranus.ts:4:
+ * https://keeptrack.
+space
+src\engine\rendering\
+draw-manager\celestia
+l-bodies\venus.ts:4: 
+* https://keeptrack.s
+pace
+src\engine\utils\advi
+ceManager.ts:8: * htt
+ps://keeptrack.space
+src\engine\utils\colo
+r-pick.ts:4: * https:
+//keeptrack.space
+src\engine\utils\cons
+tants.ts:7: * https:/
+/keeptrack.space
+src\engine\utils\date
+Format.ts:6: * https:
+//keeptrack.space
+src\engine\utils\new-
+tab-utils.ts:4: * htt
+ps://keeptrack.space
+src\engine\utils\save
+Variable.ts:8: * http
+s://keeptrack.space
+src\engine\utils\stri
+ngPad.ts:6: * https:/
+/keeptrack.space
+src\locales\de.json:5
+2:    "proOnlyMsg": 
+"Dieses Plugin ist 
+ein Pro-Plugin. Ihre 
+.env-Datei ist 
+falsch konfiguriert 
+oder Ihnen fehlen 
+Dateien! Weitere 
+Informationen finden 
+Sie unter https://kee
+ptrack.space/pro.",
+src\locales\de.src.js
+on:108:    
+"proOnlyMsg": 
+"Dieses Plugin ist 
+ein Pro-Plugin. Ihre 
+.env-Datei ist 
+falsch konfiguriert 
+oder Ihnen fehlen 
+Dateien! Weitere 
+Informationen finden 
+Sie unter https://kee
+ptrack.space/pro.",
+src\locales\es.json:2
+83:    "proOnlyMsg": 
+"Este plugin es 
+profesional. ¡Tu 
+archivo .env está 
+mal configurado o 
+faltan archivos! 
+Puedes obtener más 
+información en https:
+//keeptrack.space/pro
+.",
+src\locales\es.src.js
+on:108:    
+"proOnlyMsg": "Este 
+plugin es 
+profesional. ¡Tu 
+archivo .env está 
+mal configurado o 
+faltan archivos! 
+Puedes obtener más 
+información en https:
+//keeptrack.space/pro
+.",
+src\locales\fr.json:2
+83:    "proOnlyMsg": 
+"Ce plugin est 
+réservé aux 
+utilisateurs pro. 
+Votre fichier .env 
+est mal configuré ou 
+il vous manque des 
+fichiers ! Vous 
+pouvez en savoir 
+plus sur https://keep
+track.space/pro.",
+src\locales\fr.src.js
+on:108:    
+"proOnlyMsg": "Ce 
+plugin est réservé 
+aux utilisateurs 
+pro. Votre fichier 
+.env est mal 
+configuré ou il vous 
+manque des fichiers 
+! Vous pouvez en 
+savoir plus sur https
+://keeptrack.space/pr
+o.",
+src\locales\ja.json:2
+83:    "proOnlyMsg": 
+"このプラグインはプロプラグインです。あな
+たの.envファイルは不適切に構成されてい
+るか、ファイルが不足しています！詳細につい
+てはhttps://keeptrack.s
+pace/proをご覧ください。",
+src\locales\ja.src.js
+on:139:    
+"proOnlyMsg": "このプラグイ
+ンはプロプラグインです。あなたの.envフ
+ァイルは不適切に構成されているか、ファイル
+が不足しています！詳細についてはhttps
+://keeptrack.space/pr
+oをご覧ください。",
+src\locales\ko.json:2
+83:    "proOnlyMsg": 
+"이 플러그인은 프로 플러그인입니다. 
+.env 파일이 잘못 구성되었거나 
+파일이 누락되었습니다! 자세한 내용은 
+https://keeptrack.spa
+ce/pro를 참조하세요.",
+src\locales\ko.src.js
+on:108:    
+"proOnlyMsg": "이 
+플러그인은 프로 플러그인입니다. 
+.env 파일이 잘못 구성되었거나 
+파일이 누락되었습니다! 자세한 내용은 
+https://keeptrack.spa
+ce/pro를 참조하세요.",
+src\locales\ru.json:2
+83:    "proOnlyMsg": 
+"Этот плагин 
+доступен только в 
+профессиональной 
+версии. Ваш файл 
+.env неправильно 
+настроен или 
+отсутствуют 
+необходимые файлы! 
+Подробнее: https://ke
+eptrack.space/pro.",
+src\locales\ru.src.js
+on:108:    
+"proOnlyMsg": "Этот 
+плагин доступен 
+только в 
+профессиональной 
+версии. Ваш файл 
+.env неправильно 
+настроен или 
+отсутствуют 
+необходимые файлы! 
+Подробнее: https://ke
+eptrack.space/pro.",
+src\locales\uk.json:2
+83:    "proOnlyMsg": 
+"Цей плагін 
+доступний лише у 
+Pro-версії. Ваш файл 
+.env налаштовано 
+неправильно або 
+бракує файлів! 
+Дізнайтеся більше на 
+https://keeptrack.spa
+ce/pro.",
+src\locales\uk.src.js
+on:108:    
+"proOnlyMsg": "Цей 
+плагін доступний 
+лише у Pro-версії. 
+Ваш файл .env 
+налаштовано 
+неправильно або 
+бракує файлів! 
+Дізнайтеся більше на 
+https://keeptrack.spa
+ce/pro.",
+src\locales\zh.json:2
+83:    "proOnlyMsg": 
+"此插件为专业版插件。您的 .env 
+文件配置不正确或缺少相关文件！详情请访问 
+https://keeptrack.spa
+ce/pro。",
+src\locales\zh.src.js
+on:139:    
+"proOnlyMsg": 
+"此插件为专业版插件。您的 .env 
+文件配置不正确或缺少相关文件！详情请访问 
+https://keeptrack.spa
+ce/pro。",
+src\plugins\analysis\
+analysis.ts:7: * http
+s://keeptrack.space
+src\plugins\filter-me
+nu\filter-menu.ts:17:
+ * https://keeptrack.
+space
+src\plugins\launch-ca
+lendar\launch-calenda
+r.ts:6: * https://kee
+ptrack.space
+src\plugins\reports\r
+eports.ts:8: * https:
+//keeptrack.space
+src\plugins\satellite
+-fov\satellite-fov.ts
+:4: * https://keeptra
+ck.space
+src\plugins\satellite
+-view\satellite-view.
+ts:4: * https://keept
+rack.space
+src\plugins\scenario-
+management\scenario-m
+anagement.ts:17: * ht
+tps://keeptrack.space
+src\plugins\screensho
+t\screenshot.ts:7: * 
+https://keeptrack.spa
+ce
+src\plugins\sensor-fo
+v\sensor-fov.ts:4: * 
+https://keeptrack.spa
+ce
+src\plugins\sensor-su
+rv\sensor-surv-fence.
+ts:4: * https://keept
+rack.space
+src\plugins\settings-
+menu\settings-menu.ts
+:23: * https://keeptr
+ack.space
+src\plugins\stereo-ma
+p\stereo-map.ts:5: * 
+https://keeptrack.spa
+ce
+src\plugins\tooltips\
+tooltips.ts:11: * htt
+ps://keeptrack.space
+src\plugins\video-dir
+ector\video-director.
+ts:15: * https://keep
+track.space
+src\plugins\watchlist
+\watchlist.ts:7: * ht
+tps://keeptrack.space
+src\webworker\positio
+nCruncher.ts:4: * htt
+ps://keeptrack.space
+src\webworker\positio
+nCruncher.ts:10: * 
+under the MIT 
+License. Please 
+reference https://kee
+ptrack.space/license/
+thingsinspace.txt
+test\jest-setup.js:35
+:global.document.url 
+= 'https://keeptrack.
+space';
+test\next-launches.te
+st.ts:10:    const 
+url = 'https://Keeptr
+ack.space';
+
+

@@ -1,0 +1,89 @@
+{
+  "jest.jestCommandLine": "",
+  "conventionalCommits.promptScopes": false,
+  "editor.formatOnSave": true,
+  "typescript.validate.enable": true,
+  "npm.exclude": [
+    "**/dist/**",
+    "**/src/admin",
+    "**/src/admin/*"
+  ],
+  "eslint.workingDirectories": [
+    "./"
+  ],
+  "typescript.tsdk": "./node_modules/typescript/lib",
+  "git.enableCommitSigning": true,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true
+  },
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/*/**": true,
+    "dist/**": true,
+    "embed/**": true,
+    "src/tle/**": true,
+    "src/offline/**": true,
+    "src/admin/**": true,
+    "src/lib/**": true,
+    "tsconfig.json": true
+  },
+  "files.trimTrailingWhitespace": true,
+  "editor.renderWhitespace": "trailing",
+  "editor.trimAutoWhitespace": true,
+  "[yaml]": {
+    "editor.autoIndent": "advanced",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "always",
+    "source.addMissingImports": "explicit",
+    "source.removeUnusedImports": "explicit"
+  },
+  "files.eol": "\n",
+  "terminal.integrated.profiles.windows": {
+    "Testing": {
+      "path": [
+        "D:\\Program Files\\Git\\bin\\bash.exe"
+      ],
+      "icon": "beaker",
+      "color": "terminal.ansiGreen"
+    },
+    "Build": {
+      "path": [
+        "D:\\Program Files\\Git\\bin\\bash.exe"
+      ],
+      "icon": "symbol-method",
+      "color": "terminal.ansiBlue"
+    }
+  },
+  "jestrunner.codeLens": [
+    "run",
+    "debug",
+    "coverage"
+  ],
+  "jestrunner.runOptions": [
+    "-o --coverage"
+  ],
+  "task.autoDetect": "off",
+  "editor.rulers": [
+    180
+  ],
+  "rewrap.wrappingColumn": 180,
+  "sonarlint.connectedMode.project": {
+    "connectionId": "http-localhost-9000",
+    "projectKey": "keeptrack"
+  }
+}

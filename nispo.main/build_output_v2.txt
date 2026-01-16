@@ -1,0 +1,326 @@
+[36mStarting build process[0m
+[36mRoot directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main[0m
+[90mBuild Configuration:[0m
+[90mMode: development[0m
+[90mWatch: false[0m
+[90mSettings path: public/settings/settingsOverride.js[0m
+[90mFavicon path: public/img/favicons/favicon.ico[0m
+[90mText logo path: public/img/logo.png[0m
+[90mStyle CSS path: public/css/style.css[0m
+[90mLoading screen CSS path: public/css/loading-screen.css[0m
+[90mPrimary logo path: public/img/logo-primary.png[0m
+[90mSecondary logo path: public/img/logo-secondary.png[0m
+[36mPro features: Disabled[0m
+[36mPreparing build directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist[0m
+[36mCleaning directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist[0m
+[36mCreating directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist[0m
+[90mCopying static files[0m
+[90mCopying file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\.htaccess -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\.htaccess[0m
+[90mCopying file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\Chrome With Local Files.lnk -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\Chrome With Local Files.lnk[0m
+[90mCopying file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\index.html -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\index.html[0m
+[90mCopying file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\KeepTrack.bat -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\KeepTrack.bat[0m
+[90mCopying file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\KeepTrack.lnk -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\KeepTrack.lnk[0m
+[90mCopying file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\keeptrack10-preview.png -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\keeptrack10-preview.png[0m
+[90mCopying file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\manifest.webmanifest -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\manifest.webmanifest[0m
+[90mCopying file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\README.txt -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\README.txt[0m
+[90mCopying file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\serviceWorker.js -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\serviceWorker.js[0m
+[36mCopying directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\img\favicons -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\img\favicons[0m
+[36mCopying directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\img\pwa -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\img\pwa[0m
+[36mCopying directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\img\achievements -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\img\achievements[0m
+[36mCopying directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\data -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\data[0m
+[36mCopying directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\meshes -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\meshes[0m
+[36mCopying directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\res -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\res[0m
+[36mCopying directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\simulation -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\simulation[0m
+[36mCopying directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\textures -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\textures[0m
+[36mCopying directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\tle -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\tle[0m
+[33mSource directory does not exist (optional): src/plugins-pro/examples[0m
+[90mCopying: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\img\logo.png -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\img\logo.png[0m
+[90mCopying: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\img\logo-primary.png -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\img\logo-primary.png[0m
+[90mCopying: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\img\logo-secondary.png -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\img\logo-secondary.png[0m
+[90mCopying: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\img\favicons\favicon.ico -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\img\favicons\favicon.ico[0m
+[36mCreating directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\settings[0m
+[90mCopying: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\settings\settingsOverride.js -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\settings\settingsOverride.js[0m
+[36mUsing open source plugins[0m
+[36mUpdating version information[0m
+[32mVersion file written to src/settings/version.js[0m
+[32mUpdated version in README.md to 11.0.3[0m
+[32mVersion 11.0.3 has been set[0m
+styleCssPath: public/css/style.css
+loadingScreenCssPath: public/css/loading-screen.css
+Failed to load ../.env.
+[36mRunning one-time build[0m
+Browserslist: browsers data (caniuse-lite) is 8 months old. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+MainFiles:
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\force\Force.ts[39m[22m
+  [1m[32m30:15-20[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\force\Force.ts(30,16)
+    │       TS6133: 'state' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\FieldInterpolator.ts[39m[22m
+  [1m[32m34:14-19[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\FieldInterpolator.ts(34,15)
+    │       TS6133: 'final' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\FieldInterpolator.ts[39m[22m
+  [1m[32m34:30-38[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\FieldInterpolator.ts(34,31)
+    │       TS6133: 'EpochUTC' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\FieldInterpolator.ts[39m[22m
+  [1m[32m34:49-54[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\FieldInterpolator.ts(34,50)
+    │       TS6133: 'epoch' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\StateInterpolator.ts[39m[22m
+  [1m[32m31:14-19[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\StateInterpolator.ts(31,15)
+    │       TS6133: 'epoch' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts[39m[22m
+  [1m[32m43:7-17[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts(43,8)
+    │       TS6133: 'propagator' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts[39m[22m
+  [1m[32m53:10-20[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts(53,11)
+    │       TS6133: 'propagator' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts[39m[22m
+  [1m[32m70:11-20[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts(70,12)
+    │       TS6133: 'propPairs' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts[39m[22m
+  [1m[32m79:11-21[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts(79,12)
+    │       TS6133: 'propagator' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts[39m[22m
+  [1m[32m122:9-15[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts(122,10)
+    │       TS6133: 'random' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts[39m[22m
+  [1m[32m122:39-44[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts(122,40)
+    │       TS6133: 'sigma' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\KeplerPropagator.ts[39m[22m
+  [1m[32m54:29-37[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\KeplerPropagator.ts(54,30)
+    │       TS6133: 'interval' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Propagator.ts[39m[22m
+  [1m[32m96:4-13[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Propagator.ts(96,5)
+    │       TS6133: 'maneuvers' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts[39m[22m
+  [1m[32m54:20-25[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts(54,21)
+    │       TS6133: 'start' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts[39m[22m
+  [1m[32m54:37-43[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts(54,38)
+    │       TS6133: 'finish' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts[39m[22m
+  [1m[32m54:55-64[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts(54,56)
+    │       TS6133: 'maneuvers' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts[39m[22m
+  [1m[32m54:76-84[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts(54,77)
+    │       TS6133: 'interval' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts[39m[22m
+  [1m[32m64:11-19[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts(64,12)
+    │       TS6133: 'maneuver' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts[39m[22m
+  [1m[32m64:29-37[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts(64,30)
+    │       TS6133: 'interval' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1mMainFiles[39m[22m compiled with [1m[31m19 errors[39m[22m
+
+WebWorkers:
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\force\Force.ts[39m[22m
+  [1m[32m30:15-20[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\force\Force.ts(30,16)
+    │       TS6133: 'state' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\FieldInterpolator.ts[39m[22m
+  [1m[32m34:14-19[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\FieldInterpolator.ts(34,15)
+    │       TS6133: 'final' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\FieldInterpolator.ts[39m[22m
+  [1m[32m34:30-38[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\FieldInterpolator.ts(34,31)
+    │       TS6133: 'EpochUTC' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\FieldInterpolator.ts[39m[22m
+  [1m[32m34:49-54[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\FieldInterpolator.ts(34,50)
+    │       TS6133: 'epoch' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\StateInterpolator.ts[39m[22m
+  [1m[32m31:14-19[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\StateInterpolator.ts(31,15)
+    │       TS6133: 'epoch' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts[39m[22m
+  [1m[32m43:7-17[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts(43,8)
+    │       TS6133: 'propagator' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts[39m[22m
+  [1m[32m53:10-20[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts(53,11)
+    │       TS6133: 'propagator' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts[39m[22m
+  [1m[32m70:11-20[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts(70,12)
+    │       TS6133: 'propPairs' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts[39m[22m
+  [1m[32m79:11-21[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts(79,12)
+    │       TS6133: 'propagator' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts[39m[22m
+  [1m[32m122:9-15[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts(122,10)
+    │       TS6133: 'random' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts[39m[22m
+  [1m[32m122:39-44[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts(122,40)
+    │       TS6133: 'sigma' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\KeplerPropagator.ts[39m[22m
+  [1m[32m54:29-37[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\KeplerPropagator.ts(54,30)
+    │       TS6133: 'interval' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Propagator.ts[39m[22m
+  [1m[32m96:4-13[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Propagator.ts(96,5)
+    │       TS6133: 'maneuvers' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts[39m[22m
+  [1m[32m54:20-25[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts(54,21)
+    │       TS6133: 'start' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts[39m[22m
+  [1m[32m54:37-43[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts(54,38)
+    │       TS6133: 'finish' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts[39m[22m
+  [1m[32m54:55-64[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts(54,56)
+    │       TS6133: 'maneuvers' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts[39m[22m
+  [1m[32m54:76-84[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts(54,77)
+    │       TS6133: 'interval' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts[39m[22m
+  [1m[32m64:11-19[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts(64,12)
+    │       TS6133: 'maneuver' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts[39m[22m
+  [1m[32m64:29-37[39m[22m
+  [1m  × [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts(64,30)
+    │       TS6133: 'interval' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1mWebWorkers[39m[22m compiled with [1m[31m19 errors[39m[22m
+[32mBuild completed successfully![0m
