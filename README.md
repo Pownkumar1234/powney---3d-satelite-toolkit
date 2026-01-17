@@ -1,6 +1,5 @@
 <div align="center">
 
-![Nispo Track](public/img/logo.png)
 
 # Nispo Track
 **3D Satellite Toolkit & Space Visualization**
