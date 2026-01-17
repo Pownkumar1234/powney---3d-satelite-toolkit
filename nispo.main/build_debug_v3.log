@@ -1,0 +1,545 @@
+﻿
+> nispo-track@11.0.3 prebuild
+> npx tsx ./build/get-submodules.ts
+
+[33m[submodules] No git or no .gitmodules; skipping.[0m
+
+> nispo-track@11.0.3 build
+> npx tsx ./build/generate-translation.ts && npx tsx ./build/build-manager.ts production
+
+[36mStarting locale build process[0m
+[36mRoot directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\build[0m
+[90mBuild Configuration:[0m
+[90mMode: production[0m
+[90mWatch: false[0m
+[90mSettings path: public/settings/settingsOverride.js[0m
+[90mFavicon path: public/img/favicons/favicon.ico[0m
+[90mText logo path: public/img/logo.png[0m
+[90mStyle CSS path: public/css/style.css[0m
+[90mLoading screen CSS path: public/css/loading-screen.css[0m
+[90mPrimary logo path: public/img/logo-primary.png[0m
+[90mSecondary logo path: public/img/logo-secondary.png[0m
+[36mPro features: Disabled[0m
+[36mNo proDir specified, compiling locales only from srcDir[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\analysis[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\data[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\data\catalog-manager[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\data\catalogs[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\data\catalogs\launch-sites[0m
+[90mFound 'locales' directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\data\catalogs\locales[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\data\catalogs\locales\en.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\data\catalogs\locales\es.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\data\catalogs\locales\fr.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\data\catalogs\locales\ja.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\data\catalogs\locales\ko.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\data\catalogs\locales\ru.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\data\catalogs\locales\uk.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\data\catalogs\locales\zh.src.json[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\objects[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\rendering[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\rendering\mesh[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\sensors[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\threads[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\layers-manager[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\splash-screen[0m
+[90mFound 'locales' directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\splash-screen\locales[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\splash-screen\locales\de.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\splash-screen\locales\en.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\splash-screen\locales\es.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\splash-screen\locales\fr.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\splash-screen\locales\ja.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\splash-screen\locales\ko.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\splash-screen\locales\ru.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\splash-screen\locales\uk.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\splash-screen\locales\zh.src.json[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\camera[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\camera\state[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\core[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\events[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\input[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\input\input-manager[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\math[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\.git[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\.git\hooks[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\.git\info[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\.git\logs[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\.git\logs\refs[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\.git\logs\refs\heads[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\.git\logs\refs\remotes[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\.git\logs\refs\remotes\origin[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\.git\objects[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\.git\objects\info[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\.git\objects\pack[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\.git\refs[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\.git\refs\heads[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\.git\refs\remotes[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\.git\refs\remotes\origin[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\.git\refs\tags[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\.github[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\.github\ISSUE_TEMPLATE[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\.github\workflows[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\.vscode[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\examples[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\scripts[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\body[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\coordinate[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\covariance[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\data[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\data\values[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\enums[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\force[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interfaces[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\maneuver[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\objects[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\operations[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\optimize[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\orbit_determination[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\sgp4[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\smoothing[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\time[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\transforms[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\types[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\utils[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\test[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\test\body[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\test\body\__snapshots__[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\test\coordinate[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\test\coordinate\__snapshots__[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\test\data[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\test\data\values[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\test\lib[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\test\objects[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\test\objects\__snapshots__[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\test\observation[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\test\observation\__snapshots__[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\test\operations[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\test\operations\__snapshots__[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\test\sgp4[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\test\sgp4\full-catalog[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\test\sgp4\full-catalog\__snapshots__[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\test\sgp4\legacy[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\test\sgp4\rsr[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\test\sgp4\__snapshots__[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\test\time[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\test\time\__snapshots__[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\test\tle[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\test\transforms[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\test\transforms\__snapshots__[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\test\utils[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\test\utils\__snapshots__[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\plugins[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\line-manager[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\mesh[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\mesh\loaders[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\threads[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\types[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ui[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\utils[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\utils\development[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\utils\external[0m
+[90mFound 'locales' directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\locales[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\locales\de.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\locales\en.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\locales\es.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\locales\fr.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\locales\ja.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\locales\ko.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\locales\ru.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\locales\uk.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\locales\zh.src.json[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\about-menu[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\analysis[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\astronomy[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\breakup[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\calculator[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\classification-bar[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\collisions[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\colors-menu[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\countries[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\create-sat[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\date-time-manager[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\debris-screening[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\debug[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\dops[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\draw-lines[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\earth-atmosphere[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\earth-presets[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\edit-sat[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\filter-menu[0m
+[90mFound 'locales' directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\filter-menu\locales[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\filter-menu\locales\de.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\filter-menu\locales\en.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\filter-menu\locales\es.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\filter-menu\locales\fr.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\filter-menu\locales\ja.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\filter-menu\locales\ko.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\filter-menu\locales\ru.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\filter-menu\locales\uk.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\filter-menu\locales\zh.src.json[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\find-sat[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\gamepad[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\github-link[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\graphics-menu[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\initial-orbit[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\launch-calendar[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\linkedin-link[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\maneuver[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\missile[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\new-launch[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\next-launches[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\night-toggle[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\oem-reader[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\orbit-guard-menu[0m
+[90mFound 'locales' directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\orbit-guard-menu\locales[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\orbit-guard-menu\locales\de.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\orbit-guard-menu\locales\en.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\orbit-guard-menu\locales\es.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\orbit-guard-menu\locales\fr.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\orbit-guard-menu\locales\ja.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\orbit-guard-menu\locales\ko.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\orbit-guard-menu\locales\ru.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\orbit-guard-menu\locales\uk.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\orbit-guard-menu\locales\zh.src.json[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\orbit-references[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\planetarium[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\planets-menu[0m
+[90mFound 'locales' directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\planets-menu\locales[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\planets-menu\locales\de.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\planets-menu\locales\en.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\planets-menu\locales\es.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\planets-menu\locales\fr.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\planets-menu\locales\ja.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\planets-menu\locales\ko.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\planets-menu\locales\ru.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\planets-menu\locales\uk.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\planets-menu\locales\zh.src.json[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\plot-analysis[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\polar-plot[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\proximity-ops[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\reports[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-changes[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-changes\components[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-constellations[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box[0m
+[90mFound 'locales' directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box\locales[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box\locales\de.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box\locales\en.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box\locales\es.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box\locales\fr.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box\locales\ja.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box\locales\ko.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box\locales\ru.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box\locales\uk.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box\locales\zh.src.json[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-actions[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-links[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-mission[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-object[0m
+[90mFound 'locales' directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-object\locales[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-object\locales\de.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-object\locales\en.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-object\locales\es.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-object\locales\fr.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-object\locales\ja.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-object\locales\ko.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-object\locales\ru.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-object\locales\uk.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-object\locales\zh.src.json[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbit-guard[0m
+[90mFound 'locales' directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbit-guard\locales[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbit-guard\locales\de.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbit-guard\locales\en.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbit-guard\locales\es.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbit-guard\locales\fr.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbit-guard\locales\ja.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbit-guard\locales\ko.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbit-guard\locales\ru.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbit-guard\locales\uk.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbit-guard\locales\zh.src.json[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbital[0m
+[90mFound 'locales' directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbital\locales[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbital\locales\de.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbital\locales\en.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbital\locales\es.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbital\locales\fr.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbital\locales\ja.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbital\locales\ko.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbital\locales\ru.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbital\locales\uk.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbital\locales\zh.src.json[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-sensor[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\satellite-fov[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\satellite-photos[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\satellite-view[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\scenario-management[0m
+[90mFound 'locales' directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\scenario-management\locales[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\scenario-management\locales\de.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\scenario-management\locales\en.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\scenario-management\locales\es.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\scenario-management\locales\fr.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\scenario-management\locales\ja.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\scenario-management\locales\ko.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\scenario-management\locales\ru.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\scenario-management\locales\uk.src.json[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\scenario-management\locales\zh.src.json[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\screen-recorder[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\screenshot[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\select-sat-manager[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sensor[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sensor-fov[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sensor-list[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sensor-surv[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\settings-menu[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\short-term-fences[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sounds[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\stereo-map[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\telemetry[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\time-machine[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\time-slider[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\timeline-satellite[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\timeline-sensor[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\tooltips[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\top-menu[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\tracking-impact-predict[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\transponder-channel-data[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\user-account[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\vcr[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\video-director[0m
+[90mFound 'locales' directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\video-director\locales[0m
+[90mFound locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\video-director\locales\en.src.json[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\view-info-rmb[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\watchlist[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins-pro[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\settings[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\settings\presets[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\webworker[0m
+[90mSearching for locale files in: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\webworker\positionCruncher[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\data\catalogs\locales\en.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\splash-screen\locales\en.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\locales\en.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\filter-menu\locales\en.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\orbit-guard-menu\locales\en.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\planets-menu\locales\en.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box\locales\en.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-object\locales\en.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbit-guard\locales\en.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbital\locales\en.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\scenario-management\locales\en.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\video-director\locales\en.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\data\catalogs\locales\es.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\splash-screen\locales\es.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\locales\es.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\filter-menu\locales\es.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\orbit-guard-menu\locales\es.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\planets-menu\locales\es.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box\locales\es.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-object\locales\es.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbit-guard\locales\es.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbital\locales\es.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\scenario-management\locales\es.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\data\catalogs\locales\fr.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\splash-screen\locales\fr.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\locales\fr.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\filter-menu\locales\fr.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\orbit-guard-menu\locales\fr.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\planets-menu\locales\fr.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box\locales\fr.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-object\locales\fr.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbit-guard\locales\fr.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbital\locales\fr.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\scenario-management\locales\fr.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\data\catalogs\locales\ja.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\splash-screen\locales\ja.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\locales\ja.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\filter-menu\locales\ja.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\orbit-guard-menu\locales\ja.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\planets-menu\locales\ja.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box\locales\ja.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-object\locales\ja.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbit-guard\locales\ja.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbital\locales\ja.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\scenario-management\locales\ja.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\data\catalogs\locales\ko.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\splash-screen\locales\ko.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\locales\ko.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\filter-menu\locales\ko.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\orbit-guard-menu\locales\ko.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\planets-menu\locales\ko.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box\locales\ko.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-object\locales\ko.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbit-guard\locales\ko.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbital\locales\ko.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\scenario-management\locales\ko.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\data\catalogs\locales\ru.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\splash-screen\locales\ru.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\locales\ru.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\filter-menu\locales\ru.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\orbit-guard-menu\locales\ru.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\planets-menu\locales\ru.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box\locales\ru.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-object\locales\ru.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbit-guard\locales\ru.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbital\locales\ru.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\scenario-management\locales\ru.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\data\catalogs\locales\uk.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\splash-screen\locales\uk.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\locales\uk.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\filter-menu\locales\uk.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\orbit-guard-menu\locales\uk.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\planets-menu\locales\uk.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box\locales\uk.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-object\locales\uk.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbit-guard\locales\uk.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbital\locales\uk.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\scenario-management\locales\uk.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\data\catalogs\locales\zh.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\splash-screen\locales\zh.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\locales\zh.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\filter-menu\locales\zh.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\orbit-guard-menu\locales\zh.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\planets-menu\locales\zh.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box\locales\zh.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-object\locales\zh.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbit-guard\locales\zh.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbital\locales\zh.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\scenario-management\locales\zh.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\splash-screen\locales\de.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\locales\de.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\filter-menu\locales\de.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\orbit-guard-menu\locales\de.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\planets-menu\locales\de.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box\locales\de.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-object\locales\de.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbit-guard\locales\de.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\sat-info-box-orbital\locales\de.src.json[0m
+[90mReading source locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\scenario-management\locales\de.src.json[0m
+[36mWriting merged locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\locales\en.json[0m
+[36mWriting merged locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\locales\es.json[0m
+[36mWriting merged locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\locales\fr.json[0m
+[36mWriting merged locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\locales\ja.json[0m
+[36mWriting merged locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\locales\ko.json[0m
+[36mWriting merged locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\locales\ru.json[0m
+[36mWriting merged locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\locales\uk.json[0m
+[36mWriting merged locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\locales\zh.json[0m
+[36mWriting merged locale file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\locales\de.json[0m
+C:/Users/pownkumar/Downloads/keeptrack.space-main/keeptrack.space-main/build
+Windows path detected
+[90mInput JSON Path: C:/Users/pownkumar/Downloads/keeptrack.space-main/keeptrack.space-main/build/../src/*[0m
+[90mOutput TS Path: C:/Users/pownkumar/Downloads/keeptrack.space-main/keeptrack.space-main/build/../src/locales/keys.ts[0m
+Translation files found: [
+  'C:\\Users\\pownkumar\\Downloads\\keeptrack.space-main\\keeptrack.space-main\\src\\locales\\en.json'
+]
+[90mProcessing translation file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\locales\en.json[0m
+Generated Keys file at C:/Users/pownkumar/Downloads/keeptrack.space-main/keeptrack.space-main/build/../src/locales/keys.ts
+[36mStarting build process[0m
+[36mRoot directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main[0m
+[90mBuild Configuration:[0m
+[90mMode: production[0m
+[90mWatch: false[0m
+[90mSettings path: public/settings/settingsOverride.js[0m
+[90mFavicon path: public/img/favicons/favicon.ico[0m
+[90mText logo path: public/img/logo.png[0m
+[90mStyle CSS path: public/css/style.css[0m
+[90mLoading screen CSS path: public/css/loading-screen.css[0m
+[90mPrimary logo path: public/img/logo-primary.png[0m
+[90mSecondary logo path: public/img/logo-secondary.png[0m
+[36mPro features: Disabled[0m
+[36mPreparing build directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist[0m
+[36mCleaning directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist[0m
+[36mCreating directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist[0m
+[90mCopying static files[0m
+[90mCopying file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\.htaccess -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\.htaccess[0m
+[90mCopying file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\Chrome With Local Files.lnk -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\Chrome With Local Files.lnk[0m
+[90mCopying file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\index.html -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\index.html[0m
+[90mCopying file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\KeepTrack.bat -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\KeepTrack.bat[0m
+[90mCopying file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\KeepTrack.lnk -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\KeepTrack.lnk[0m
+[90mCopying file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\keeptrack10-preview.png -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\keeptrack10-preview.png[0m
+[90mCopying file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\manifest.webmanifest -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\manifest.webmanifest[0m
+[90mCopying file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\README.txt -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\README.txt[0m
+[90mCopying file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\serviceWorker.js -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\serviceWorker.js[0m
+[36mCopying directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\img\favicons -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\img\favicons[0m
+[36mCopying directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\img\pwa -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\img\pwa[0m
+[36mCopying directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\img\achievements -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\img\achievements[0m
+[36mCopying directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\data -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\data[0m
+[36mCopying directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\meshes -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\meshes[0m
+[36mCopying directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\res -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\res[0m
+[36mCopying directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\simulation -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\simulation[0m
+[36mCopying directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\textures -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\textures[0m
+[36mCopying directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\tle -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\tle[0m
+[33mSource directory does not exist (optional): src/plugins-pro/examples[0m
+[90mCopying: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\img\logo.png -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\img\logo.png[0m
+[90mCopying: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\img\logo-primary.png -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\img\logo-primary.png[0m
+[90mCopying: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\img\logo-secondary.png -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\img\logo-secondary.png[0m
+[90mCopying: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\img\favicons\favicon.ico -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\img\favicons\favicon.ico[0m
+[36mCreating directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\settings[0m
+[90mCopying: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\settings\settingsOverride.js -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\settings\settingsOverride.js[0m
+[36mUsing open source plugins[0m
+[36mUpdating version information[0m
+[32mVersion file written to src/settings/version.js[0m
+[32mUpdated version in README.md to 11.0.3[0m
+[32mVersion 11.0.3 has been set[0m
+styleCssPath: public/css/style.css
+loadingScreenCssPath: public/css/loading-screen.css
+[36mRunning one-time build[0m
+MainFiles:
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\keepTrackApi.ts[39m[22m
+  [1m[32m22:24-58[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\keepTrackApi.ts(22,25)
+    Γöé       TS2307: Cannot find module './engine/ootk/src/fetch/horizons' or its corresponding type declarations.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\hover-manager.ts[39m[22m
+  [1m[32m11:59-68[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\hover-manager.ts(11,60)
+    Γöé       TS2305: Module '"@ootk/src/main"' has no exported member 'KM_PER_AU'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1m./src/keepTrackApi.ts[39m[22m [1m[32m5:0-59[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './engine/ootk/src/fetch/horizons' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src'
+     Γò¡ΓöÇ[5:24]
+   3 Γöé import { EventBus } from './engine/events/event-bus';
+   4 Γöé import { saveCsv, saveVariable } from './engine/utils/saveVariable';
+   5 Γöé import HorizonsAPI from './engine/ootk/src/fetch/horizons';
+     ┬╖                         ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   6 Γöé export class KeepTrackApi {
+   7 Γöé     analytics = {
+     Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/keeptrack.ts
+   @ ./src/main.ts
+
+  [1mMainFiles[39m[22m compiled with [1m[31m3 errors[39m[22m and [1m[33m1 warning[39m[22m
+
+WebWorkers:
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\keepTrackApi.ts[39m[22m
+  [1m[32m22:24-58[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\keepTrackApi.ts(22,25)
+    Γöé       TS2307: Cannot find module './engine/ootk/src/fetch/horizons' or its corresponding type declarations.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\hover-manager.ts[39m[22m
+  [1m[32m11:59-68[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\hover-manager.ts(11,60)
+    Γöé       TS2305: Module '"@ootk/src/main"' has no exported member 'KM_PER_AU'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1mWebWorkers[39m[22m compiled with [1m[31m2 errors[39m[22m
+[32mBuild completed successfully![0m

@@ -1,0 +1,1356 @@
+﻿[36mStarting build process[0m
+[36mRoot directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main[0m
+[90mBuild Configuration:[0m
+[90mMode: development[0m
+[90mWatch: false[0m
+[90mSettings path: public/settings/settingsOverride.js[0m
+[90mFavicon path: public/img/favicons/favicon.ico[0m
+[90mText logo path: public/img/logo.png[0m
+[90mStyle CSS path: public/css/style.css[0m
+[90mLoading screen CSS path: public/css/loading-screen.css[0m
+[90mPrimary logo path: public/img/logo-primary.png[0m
+[90mSecondary logo path: public/img/logo-secondary.png[0m
+[36mPro features: Disabled[0m
+[36mPreparing build directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist[0m
+[36mCleaning directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist[0m
+[36mCreating directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist[0m
+[90mCopying static files[0m
+[90mCopying file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\.htaccess -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\.htaccess[0m
+[90mCopying file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\Chrome With Local Files.lnk -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\Chrome With Local Files.lnk[0m
+[90mCopying file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\index.html -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\index.html[0m
+[90mCopying file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\KeepTrack.bat -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\KeepTrack.bat[0m
+[90mCopying file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\KeepTrack.lnk -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\KeepTrack.lnk[0m
+[90mCopying file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\keeptrack10-preview.png -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\keeptrack10-preview.png[0m
+[90mCopying file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\manifest.webmanifest -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\manifest.webmanifest[0m
+[90mCopying file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\README.txt -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\README.txt[0m
+[90mCopying file: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\serviceWorker.js -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\serviceWorker.js[0m
+[36mCopying directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\img\favicons -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\img\favicons[0m
+[36mCopying directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\img\pwa -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\img\pwa[0m
+[36mCopying directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\img\achievements -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\img\achievements[0m
+[36mCopying directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\data -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\data[0m
+[36mCopying directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\meshes -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\meshes[0m
+[36mCopying directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\res -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\res[0m
+[36mCopying directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\simulation -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\simulation[0m
+[36mCopying directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\textures -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\textures[0m
+[36mCopying directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\tle -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\tle[0m
+[33mSource directory does not exist (optional): src/plugins-pro/examples[0m
+[90mCopying: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\img\logo.png -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\img\logo.png[0m
+[90mCopying: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\img\logo-primary.png -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\img\logo-primary.png[0m
+[90mCopying: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\img\logo-secondary.png -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\img\logo-secondary.png[0m
+[90mCopying: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\img\favicons\favicon.ico -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\img\favicons\favicon.ico[0m
+[36mCreating directory: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\settings[0m
+[90mCopying: C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\public\settings\settingsOverride.js -> C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\dist\settings\settingsOverride.js[0m
+[36mUsing open source plugins[0m
+[36mUpdating version information[0m
+[32mVersion file written to src/settings/version.js[0m
+[32mUpdated version in README.md to 11.0.3[0m
+[32mVersion 11.0.3 has been set[0m
+styleCssPath: public/css/style.css
+loadingScreenCssPath: public/css/loading-screen.css
+[36mRunning one-time build[0m
+MainFiles:
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\keepTrackApi.ts[39m[22m
+  [1m[32m22:24-58[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\keepTrackApi.ts(22,25)
+    Γöé       TS2307: Cannot find module './engine/ootk/src/fetch/horizons' or its corresponding type declarations.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\data\catalog-loader.ts[39m[22m
+  [1m[32m416:30-48[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\data\catalog-loader.ts(416,31)
+    Γöé       TS2339: Property 'TERRESTRIAL_PLANET' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\hover-manager.ts[39m[22m
+  [1m[32m11:59-68[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\hover-manager.ts(11,60)
+    Γöé       TS2305: Module '"@ootk/src/main"' has no exported member 'KM_PER_AU'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\hover-manager.ts[39m[22m
+  [1m[32m379:35-53[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\hover-manager.ts(379,36)
+    Γöé       TS2339: Property 'TERRESTRIAL_PLANET' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\hover-manager.ts[39m[22m
+  [1m[32m380:35-44[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\hover-manager.ts(380,36)
+    Γöé       TS2339: Property 'GAS_GIANT' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\hover-manager.ts[39m[22m
+  [1m[32m381:35-44[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\hover-manager.ts(381,36)
+    Γöé       TS2339: Property 'ICE_GIANT' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\hover-manager.ts[39m[22m
+  [1m[32m382:35-47[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\hover-manager.ts(382,36)
+    Γöé       TS2339: Property 'DWARF_PLANET' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\hover-manager.ts[39m[22m
+  [1m[32m383:35-39[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\hover-manager.ts(383,36)
+    Γöé       TS2339: Property 'MOON' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\force\Force.ts[39m[22m
+  [1m[32m30:15-20[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\force\Force.ts(30,16)
+    Γöé       TS6133: 'state' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\FieldInterpolator.ts[39m[22m
+  [1m[32m34:14-19[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\FieldInterpolator.ts(34,15)
+    Γöé       TS6133: 'final' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\FieldInterpolator.ts[39m[22m
+  [1m[32m34:30-38[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\FieldInterpolator.ts(34,31)
+    Γöé       TS6133: 'EpochUTC' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\FieldInterpolator.ts[39m[22m
+  [1m[32m34:49-54[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\FieldInterpolator.ts(34,50)
+    Γöé       TS6133: 'epoch' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\StateInterpolator.ts[39m[22m
+  [1m[32m31:14-19[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\StateInterpolator.ts(31,15)
+    Γöé       TS6133: 'epoch' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts[39m[22m
+  [1m[32m43:7-17[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts(43,8)
+    Γöé       TS6133: 'propagator' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts[39m[22m
+  [1m[32m53:10-20[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts(53,11)
+    Γöé       TS6133: 'propagator' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts[39m[22m
+  [1m[32m70:11-20[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts(70,12)
+    Γöé       TS6133: 'propPairs' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts[39m[22m
+  [1m[32m79:11-21[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts(79,12)
+    Γöé       TS6133: 'propagator' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts[39m[22m
+  [1m[32m122:9-15[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts(122,10)
+    Γöé       TS6133: 'random' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts[39m[22m
+  [1m[32m122:39-44[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts(122,40)
+    Γöé       TS6133: 'sigma' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\KeplerPropagator.ts[39m[22m
+  [1m[32m54:29-37[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\KeplerPropagator.ts(54,30)
+    Γöé       TS6133: 'interval' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Propagator.ts[39m[22m
+  [1m[32m96:4-13[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Propagator.ts(96,5)
+    Γöé       TS6133: 'maneuvers' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts[39m[22m
+  [1m[32m54:20-25[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts(54,21)
+    Γöé       TS6133: 'start' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts[39m[22m
+  [1m[32m54:37-43[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts(54,38)
+    Γöé       TS6133: 'finish' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts[39m[22m
+  [1m[32m54:55-64[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts(54,56)
+    Γöé       TS6133: 'maneuvers' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts[39m[22m
+  [1m[32m54:76-84[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts(54,77)
+    Γöé       TS6133: 'interval' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts[39m[22m
+  [1m[32m64:11-19[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts(64,12)
+    Γöé       TS6133: 'maneuver' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts[39m[22m
+  [1m[32m64:29-37[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts(64,30)
+    Γöé       TS6133: 'interval' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\celestrak-color-scheme.ts[39m[22m
+  [1m[32m90:35-53[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\celestrak-color-scheme.ts(90,36)
+    Γöé       TS2339: Property 'TERRESTRIAL_PLANET' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\celestrak-color-scheme.ts[39m[22m
+  [1m[32m91:35-44[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\celestrak-color-scheme.ts(91,36)
+    Γöé       TS2339: Property 'GAS_GIANT' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\celestrak-color-scheme.ts[39m[22m
+  [1m[32m92:35-44[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\celestrak-color-scheme.ts(92,36)
+    Γöé       TS2339: Property 'ICE_GIANT' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\celestrak-color-scheme.ts[39m[22m
+  [1m[32m93:35-47[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\celestrak-color-scheme.ts(93,36)
+    Γöé       TS2339: Property 'DWARF_PLANET' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\celestrak-color-scheme.ts[39m[22m
+  [1m[32m94:35-39[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\celestrak-color-scheme.ts(94,36)
+    Γöé       TS2339: Property 'MOON' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\object-type-color-scheme.ts[39m[22m
+  [1m[32m93:35-53[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\object-type-color-scheme.ts(93,36)
+    Γöé       TS2339: Property 'TERRESTRIAL_PLANET' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\object-type-color-scheme.ts[39m[22m
+  [1m[32m94:35-44[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\object-type-color-scheme.ts(94,36)
+    Γöé       TS2339: Property 'GAS_GIANT' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\object-type-color-scheme.ts[39m[22m
+  [1m[32m95:35-44[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\object-type-color-scheme.ts(95,36)
+    Γöé       TS2339: Property 'ICE_GIANT' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\object-type-color-scheme.ts[39m[22m
+  [1m[32m96:35-47[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\object-type-color-scheme.ts(96,36)
+    Γöé       TS2339: Property 'DWARF_PLANET' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\object-type-color-scheme.ts[39m[22m
+  [1m[32m97:35-39[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\object-type-color-scheme.ts(97,36)
+    Γöé       TS2339: Property 'MOON' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\celestial-body.ts[39m[22m
+  [1m[32m56:42-60[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\celestial-body.ts(56,43)
+    Γöé       TS2339: Property 'TERRESTRIAL_PLANET' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\celestial-body.ts[39m[22m
+  [1m[32m74:27-45[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\celestial-body.ts(74,28)
+    Γöé       TS2339: Property 'TERRESTRIAL_PLANET' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\celestial-body.ts[39m[22m
+  [1m[32m76:27-36[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\celestial-body.ts(76,28)
+    Γöé       TS2339: Property 'GAS_GIANT' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\celestial-body.ts[39m[22m
+  [1m[32m78:27-36[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\celestial-body.ts(78,28)
+    Γöé       TS2339: Property 'ICE_GIANT' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\celestial-body.ts[39m[22m
+  [1m[32m80:27-39[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\celestial-body.ts(80,28)
+    Γöé       TS2339: Property 'DWARF_PLANET' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\celestial-body.ts[39m[22m
+  [1m[32m82:27-31[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\celestial-body.ts(82,28)
+    Γöé       TS2339: Property 'MOON' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\jupiter.ts[39m[22m
+  [1m[32m40:42-51[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\jupiter.ts(40,43)
+    Γöé       TS2339: Property 'GAS_GIANT' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\makemake.ts[39m[22m
+  [1m[32m41:42-54[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\makemake.ts(41,43)
+    Γöé       TS2339: Property 'DWARF_PLANET' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\neptune.ts[39m[22m
+  [1m[32m40:25-34[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\neptune.ts(40,26)
+    Γöé       TS2339: Property 'ICE_GIANT' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\pluto.ts[39m[22m
+  [1m[32m41:42-54[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\pluto.ts(41,43)
+    Γöé       TS2339: Property 'DWARF_PLANET' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\saturn.ts[39m[22m
+  [1m[32m43:42-51[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\saturn.ts(43,43)
+    Γöé       TS2339: Property 'GAS_GIANT' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\uranus.ts[39m[22m
+  [1m[32m42:42-51[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\uranus.ts(42,43)
+    Γöé       TS2339: Property 'ICE_GIANT' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\select-sat-manager\select-sat-manager.ts[39m[22m
+  [1m[32m165:30-48[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\select-sat-manager\select-sat-manager.ts(165,31)
+    Γöé       TS2339: Property 'TERRESTRIAL_PLANET' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\select-sat-manager\select-sat-manager.ts[39m[22m
+  [1m[32m166:30-39[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\select-sat-manager\select-sat-manager.ts(166,31)
+    Γöé       TS2339: Property 'GAS_GIANT' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\select-sat-manager\select-sat-manager.ts[39m[22m
+  [1m[32m167:30-39[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\select-sat-manager\select-sat-manager.ts(167,31)
+    Γöé       TS2339: Property 'ICE_GIANT' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\select-sat-manager\select-sat-manager.ts[39m[22m
+  [1m[32m168:30-42[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\select-sat-manager\select-sat-manager.ts(168,31)
+    Γöé       TS2339: Property 'DWARF_PLANET' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\select-sat-manager\select-sat-manager.ts[39m[22m
+  [1m[32m169:30-34[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\select-sat-manager\select-sat-manager.ts(169,31)
+    Γöé       TS2339: Property 'MOON' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/interpolator/LagrangeInterpolator.ts[39m[22m [1m[32m17:0-68[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve '../main.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator'
+      Γò¡ΓöÇ[17:55]
+   15 Γöé  * Orbital Object ToolKit. If not, see <http://www.gnu.org/licenses/>.
+   16 Γöé  */
+   17 Γöé import { EpochUTC, EpochWindow, J2000, Vector3D } from '../main.js';
+      ┬╖                                                        ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   18 Γöé import { StateInterpolator } from './StateInterpolator.js';
+   19 Γöé export class LagrangeInterpolator extends StateInterpolator {
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/app/objects/oem-satellite.ts
+   @ ./src/engine/rendering/dots-manager.ts
+   @ ./src/keeptrack.ts
+   @ ./src/main.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/interpolator/LagrangeInterpolator.ts[39m[22m [1m[32m18:0-59[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './StateInterpolator.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator'
+      Γò¡ΓöÇ[18:34]
+   16 Γöé  */
+   17 Γöé import { EpochUTC, EpochWindow, J2000, Vector3D } from '../main.js';
+   18 Γöé import { StateInterpolator } from './StateInterpolator.js';
+      ┬╖                                   ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   19 Γöé export class LagrangeInterpolator extends StateInterpolator {
+   20 Γöé     t_;
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/app/objects/oem-satellite.ts
+   @ ./src/engine/rendering/dots-manager.ts
+   @ ./src/keeptrack.ts
+   @ ./src/main.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m23:0-33[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './enums/index.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[23:14]
+   21 Γöé  * Orbital Object ToolKit. If not, see <http://www.gnu.org/licenses/>.
+   22 Γöé  */
+   23 Γöé export * from './enums/index.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   24 Γöé export * from './types/types.js';
+   25 Γöé export * from './interfaces/index.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/app/sensors/sensor-math.ts
+   @ ./src/keeptrack.ts
+   @ ./src/main.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m24:0-33[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './types/types.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[24:14]
+   22 Γöé  */
+   23 Γöé export * from './enums/index.js';
+   24 Γöé export * from './types/types.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   25 Γöé export * from './interfaces/index.js';
+   26 Γöé export * from './time/index.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/app/sensors/sensor-math.ts
+   @ ./src/keeptrack.ts
+   @ ./src/main.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m25:0-38[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './interfaces/index.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[25:14]
+   23 Γöé export * from './enums/index.js';
+   24 Γöé export * from './types/types.js';
+   25 Γöé export * from './interfaces/index.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   26 Γöé export * from './time/index.js';
+   27 Γöé export * from './transforms/index.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/app/sensors/sensor-math.ts
+   @ ./src/keeptrack.ts
+   @ ./src/main.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m26:0-32[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './time/index.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[26:14]
+   24 Γöé export * from './types/types.js';
+   25 Γöé export * from './interfaces/index.js';
+   26 Γöé export * from './time/index.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   27 Γöé export * from './transforms/index.js';
+   28 Γöé export * from './utils/index.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/app/sensors/sensor-math.ts
+   @ ./src/keeptrack.ts
+   @ ./src/main.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m27:0-38[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './transforms/index.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[27:14]
+   25 Γöé export * from './interfaces/index.js';
+   26 Γöé export * from './time/index.js';
+   27 Γöé export * from './transforms/index.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   28 Γöé export * from './utils/index.js';
+   29 Γöé export * from './operations/operations.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/app/sensors/sensor-math.ts
+   @ ./src/keeptrack.ts
+   @ ./src/main.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m28:0-33[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './utils/index.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[28:14]
+   26 Γöé export * from './time/index.js';
+   27 Γöé export * from './transforms/index.js';
+   28 Γöé export * from './utils/index.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   29 Γöé export * from './operations/operations.js';
+   30 Γöé export { BaseObject } from './objects/index.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/app/sensors/sensor-math.ts
+   @ ./src/keeptrack.ts
+   @ ./src/main.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m29:0-43[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './operations/operations.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[29:14]
+   27 Γöé export * from './transforms/index.js';
+   28 Γöé export * from './utils/index.js';
+   29 Γöé export * from './operations/operations.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   30 Γöé export { BaseObject } from './objects/index.js';
+   31 Γöé export { Earth } from './body/index.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/app/sensors/sensor-math.ts
+   @ ./src/keeptrack.ts
+   @ ./src/main.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m30:0-48[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './objects/index.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[30:27]
+   28 Γöé export * from './utils/index.js';
+   29 Γöé export * from './operations/operations.js';
+   30 Γöé export { BaseObject } from './objects/index.js';
+      ┬╖                            ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   31 Γöé export { Earth } from './body/index.js';
+   32 Γöé export * from './coordinate/index.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/app/sensors/sensor-math.ts
+   @ ./src/keeptrack.ts
+   @ ./src/main.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m31:0-40[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './body/index.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[31:22]
+   29 Γöé export * from './operations/operations.js';
+   30 Γöé export { BaseObject } from './objects/index.js';
+   31 Γöé export { Earth } from './body/index.js';
+      ┬╖                       ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   32 Γöé export * from './coordinate/index.js';
+   33 Γöé export * from './observation/index.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/app/sensors/sensor-math.ts
+   @ ./src/keeptrack.ts
+   @ ./src/main.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m32:0-38[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './coordinate/index.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[32:14]
+   30 Γöé export { BaseObject } from './objects/index.js';
+   31 Γöé export { Earth } from './body/index.js';
+   32 Γöé export * from './coordinate/index.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   33 Γöé export * from './observation/index.js';
+   34 Γöé export * from './data/DataHandler.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/app/sensors/sensor-math.ts
+   @ ./src/keeptrack.ts
+   @ ./src/main.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m33:0-39[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './observation/index.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[33:14]
+   31 Γöé export { Earth } from './body/index.js';
+   32 Γöé export * from './coordinate/index.js';
+   33 Γöé export * from './observation/index.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   34 Γöé export * from './data/DataHandler.js';
+   35 Γöé export * from './sgp4/index.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/app/sensors/sensor-math.ts
+   @ ./src/keeptrack.ts
+   @ ./src/main.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m34:0-38[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './data/DataHandler.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[34:14]
+   32 Γöé export * from './coordinate/index.js';
+   33 Γöé export * from './observation/index.js';
+   34 Γöé export * from './data/DataHandler.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   35 Γöé export * from './sgp4/index.js';
+   36 Γöé export * from './objects/index.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/app/sensors/sensor-math.ts
+   @ ./src/keeptrack.ts
+   @ ./src/main.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m35:0-32[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './sgp4/index.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[35:14]
+   33 Γöé export * from './observation/index.js';
+   34 Γöé export * from './data/DataHandler.js';
+   35 Γöé export * from './sgp4/index.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   36 Γöé export * from './objects/index.js';
+   37 Γöé export * from './body/index.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/app/sensors/sensor-math.ts
+   @ ./src/keeptrack.ts
+   @ ./src/main.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m38:0-38[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './operations/index.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[38:14]
+   36 Γöé export * from './objects/index.js';
+   37 Γöé export * from './body/index.js';
+   38 Γöé export * from './operations/index.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   39 Γöé export * from './force/index.js';
+   40 Γöé export * from './propagator/index.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/app/sensors/sensor-math.ts
+   @ ./src/keeptrack.ts
+   @ ./src/main.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m39:0-33[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './force/index.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[39:14]
+   37 Γöé export * from './body/index.js';
+   38 Γöé export * from './operations/index.js';
+   39 Γöé export * from './force/index.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   40 Γöé export * from './propagator/index.js';
+   41 Γöé export * from './orbit_determination/index.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/app/sensors/sensor-math.ts
+   @ ./src/keeptrack.ts
+   @ ./src/main.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m40:0-38[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './propagator/index.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[40:14]
+   38 Γöé export * from './operations/index.js';
+   39 Γöé export * from './force/index.js';
+   40 Γöé export * from './propagator/index.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   41 Γöé export * from './orbit_determination/index.js';
+   42 Γöé export * from './covariance/index.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/app/sensors/sensor-math.ts
+   @ ./src/keeptrack.ts
+   @ ./src/main.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m41:0-47[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './orbit_determination/index.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[41:14]
+   39 Γöé export * from './force/index.js';
+   40 Γöé export * from './propagator/index.js';
+   41 Γöé export * from './orbit_determination/index.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   42 Γöé export * from './covariance/index.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/app/sensors/sensor-math.ts
+   @ ./src/keeptrack.ts
+   @ ./src/main.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m42:0-38[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './covariance/index.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[42:14]
+   40 Γöé export * from './propagator/index.js';
+   41 Γöé export * from './orbit_determination/index.js';
+   42 Γöé export * from './covariance/index.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/app/sensors/sensor-math.ts
+   @ ./src/keeptrack.ts
+   @ ./src/main.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/keepTrackApi.ts[39m[22m [1m[32m5:0-59[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './engine/ootk/src/fetch/horizons' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src'
+     Γò¡ΓöÇ[5:24]
+   3 Γöé import { EventBus } from './engine/events/event-bus';
+   4 Γöé import { saveCsv, saveVariable } from './engine/utils/saveVariable';
+   5 Γöé import HorizonsAPI from './engine/ootk/src/fetch/horizons';
+     ┬╖                         ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   6 Γöé export class KeepTrackApi {
+   7 Γöé     analytics = {
+     Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/keeptrack.ts
+   @ ./src/main.ts
+
+  [1mMainFiles[39m[22m compiled with [1m[31m75 errors[39m[22m and [1m[33m4283 warnings[39m[22m
+
+WebWorkers:
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\keepTrackApi.ts[39m[22m
+  [1m[32m22:24-58[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\keepTrackApi.ts(22,25)
+    Γöé       TS2307: Cannot find module './engine/ootk/src/fetch/horizons' or its corresponding type declarations.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\data\catalog-loader.ts[39m[22m
+  [1m[32m416:30-48[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\data\catalog-loader.ts(416,31)
+    Γöé       TS2339: Property 'TERRESTRIAL_PLANET' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\hover-manager.ts[39m[22m
+  [1m[32m11:59-68[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\hover-manager.ts(11,60)
+    Γöé       TS2305: Module '"@ootk/src/main"' has no exported member 'KM_PER_AU'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\hover-manager.ts[39m[22m
+  [1m[32m379:35-53[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\hover-manager.ts(379,36)
+    Γöé       TS2339: Property 'TERRESTRIAL_PLANET' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\hover-manager.ts[39m[22m
+  [1m[32m380:35-44[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\hover-manager.ts(380,36)
+    Γöé       TS2339: Property 'GAS_GIANT' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\hover-manager.ts[39m[22m
+  [1m[32m381:35-44[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\hover-manager.ts(381,36)
+    Γöé       TS2339: Property 'ICE_GIANT' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\hover-manager.ts[39m[22m
+  [1m[32m382:35-47[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\hover-manager.ts(382,36)
+    Γöé       TS2339: Property 'DWARF_PLANET' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\hover-manager.ts[39m[22m
+  [1m[32m383:35-39[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\app\ui\hover-manager.ts(383,36)
+    Γöé       TS2339: Property 'MOON' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\force\Force.ts[39m[22m
+  [1m[32m30:15-20[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\force\Force.ts(30,16)
+    Γöé       TS6133: 'state' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\FieldInterpolator.ts[39m[22m
+  [1m[32m34:14-19[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\FieldInterpolator.ts(34,15)
+    Γöé       TS6133: 'final' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\FieldInterpolator.ts[39m[22m
+  [1m[32m34:30-38[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\FieldInterpolator.ts(34,31)
+    Γöé       TS6133: 'EpochUTC' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\FieldInterpolator.ts[39m[22m
+  [1m[32m34:49-54[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\FieldInterpolator.ts(34,50)
+    Γöé       TS6133: 'epoch' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\StateInterpolator.ts[39m[22m
+  [1m[32m31:14-19[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\interpolator\StateInterpolator.ts(31,15)
+    Γöé       TS6133: 'epoch' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts[39m[22m
+  [1m[32m43:7-17[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts(43,8)
+    Γöé       TS6133: 'propagator' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts[39m[22m
+  [1m[32m53:10-20[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts(53,11)
+    Γöé       TS6133: 'propagator' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts[39m[22m
+  [1m[32m70:11-20[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts(70,12)
+    Γöé       TS6133: 'propPairs' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts[39m[22m
+  [1m[32m79:11-21[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts(79,12)
+    Γöé       TS6133: 'propagator' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts[39m[22m
+  [1m[32m122:9-15[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts(122,10)
+    Γöé       TS6133: 'random' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts[39m[22m
+  [1m[32m122:39-44[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\observation\Observation.ts(122,40)
+    Γöé       TS6133: 'sigma' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\KeplerPropagator.ts[39m[22m
+  [1m[32m54:29-37[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\KeplerPropagator.ts(54,30)
+    Γöé       TS6133: 'interval' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Propagator.ts[39m[22m
+  [1m[32m96:4-13[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Propagator.ts(96,5)
+    Γöé       TS6133: 'maneuvers' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts[39m[22m
+  [1m[32m54:20-25[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts(54,21)
+    Γöé       TS6133: 'start' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts[39m[22m
+  [1m[32m54:37-43[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts(54,38)
+    Γöé       TS6133: 'finish' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts[39m[22m
+  [1m[32m54:55-64[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts(54,56)
+    Γöé       TS6133: 'maneuvers' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts[39m[22m
+  [1m[32m54:76-84[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts(54,77)
+    Γöé       TS6133: 'interval' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts[39m[22m
+  [1m[32m64:11-19[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts(64,12)
+    Γöé       TS6133: 'maneuver' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts[39m[22m
+  [1m[32m64:29-37[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src\propagator\Sgp4Propagator.ts(64,30)
+    Γöé       TS6133: 'interval' is declared but its value is never read.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\celestrak-color-scheme.ts[39m[22m
+  [1m[32m90:35-53[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\celestrak-color-scheme.ts(90,36)
+    Γöé       TS2339: Property 'TERRESTRIAL_PLANET' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\celestrak-color-scheme.ts[39m[22m
+  [1m[32m91:35-44[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\celestrak-color-scheme.ts(91,36)
+    Γöé       TS2339: Property 'GAS_GIANT' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\celestrak-color-scheme.ts[39m[22m
+  [1m[32m92:35-44[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\celestrak-color-scheme.ts(92,36)
+    Γöé       TS2339: Property 'ICE_GIANT' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\celestrak-color-scheme.ts[39m[22m
+  [1m[32m93:35-47[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\celestrak-color-scheme.ts(93,36)
+    Γöé       TS2339: Property 'DWARF_PLANET' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\celestrak-color-scheme.ts[39m[22m
+  [1m[32m94:35-39[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\celestrak-color-scheme.ts(94,36)
+    Γöé       TS2339: Property 'MOON' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\object-type-color-scheme.ts[39m[22m
+  [1m[32m93:35-53[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\object-type-color-scheme.ts(93,36)
+    Γöé       TS2339: Property 'TERRESTRIAL_PLANET' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\object-type-color-scheme.ts[39m[22m
+  [1m[32m94:35-44[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\object-type-color-scheme.ts(94,36)
+    Γöé       TS2339: Property 'GAS_GIANT' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\object-type-color-scheme.ts[39m[22m
+  [1m[32m95:35-44[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\object-type-color-scheme.ts(95,36)
+    Γöé       TS2339: Property 'ICE_GIANT' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\object-type-color-scheme.ts[39m[22m
+  [1m[32m96:35-47[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\object-type-color-scheme.ts(96,36)
+    Γöé       TS2339: Property 'DWARF_PLANET' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\object-type-color-scheme.ts[39m[22m
+  [1m[32m97:35-39[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\color-schemes\object-type-color-scheme.ts(97,36)
+    Γöé       TS2339: Property 'MOON' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\celestial-body.ts[39m[22m
+  [1m[32m56:42-60[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\celestial-body.ts(56,43)
+    Γöé       TS2339: Property 'TERRESTRIAL_PLANET' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\celestial-body.ts[39m[22m
+  [1m[32m74:27-45[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\celestial-body.ts(74,28)
+    Γöé       TS2339: Property 'TERRESTRIAL_PLANET' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\celestial-body.ts[39m[22m
+  [1m[32m76:27-36[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\celestial-body.ts(76,28)
+    Γöé       TS2339: Property 'GAS_GIANT' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\celestial-body.ts[39m[22m
+  [1m[32m78:27-36[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\celestial-body.ts(78,28)
+    Γöé       TS2339: Property 'ICE_GIANT' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\celestial-body.ts[39m[22m
+  [1m[32m80:27-39[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\celestial-body.ts(80,28)
+    Γöé       TS2339: Property 'DWARF_PLANET' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\celestial-body.ts[39m[22m
+  [1m[32m82:27-31[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\celestial-body.ts(82,28)
+    Γöé       TS2339: Property 'MOON' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\jupiter.ts[39m[22m
+  [1m[32m40:42-51[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\jupiter.ts(40,43)
+    Γöé       TS2339: Property 'GAS_GIANT' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\makemake.ts[39m[22m
+  [1m[32m41:42-54[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\makemake.ts(41,43)
+    Γöé       TS2339: Property 'DWARF_PLANET' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\neptune.ts[39m[22m
+  [1m[32m40:25-34[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\neptune.ts(40,26)
+    Γöé       TS2339: Property 'ICE_GIANT' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\pluto.ts[39m[22m
+  [1m[32m41:42-54[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\pluto.ts(41,43)
+    Γöé       TS2339: Property 'DWARF_PLANET' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\saturn.ts[39m[22m
+  [1m[32m43:42-51[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\saturn.ts(43,43)
+    Γöé       TS2339: Property 'GAS_GIANT' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\uranus.ts[39m[22m
+  [1m[32m42:42-51[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\rendering\draw-manager\celestial-bodies\uranus.ts(42,43)
+    Γöé       TS2339: Property 'ICE_GIANT' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\select-sat-manager\select-sat-manager.ts[39m[22m
+  [1m[32m165:30-48[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\select-sat-manager\select-sat-manager.ts(165,31)
+    Γöé       TS2339: Property 'TERRESTRIAL_PLANET' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\select-sat-manager\select-sat-manager.ts[39m[22m
+  [1m[32m166:30-39[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\select-sat-manager\select-sat-manager.ts(166,31)
+    Γöé       TS2339: Property 'GAS_GIANT' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\select-sat-manager\select-sat-manager.ts[39m[22m
+  [1m[32m167:30-39[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\select-sat-manager\select-sat-manager.ts(167,31)
+    Γöé       TS2339: Property 'ICE_GIANT' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\select-sat-manager\select-sat-manager.ts[39m[22m
+  [1m[32m168:30-42[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\select-sat-manager\select-sat-manager.ts(168,31)
+    Γöé       TS2339: Property 'DWARF_PLANET' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1mC:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\select-sat-manager\select-sat-manager.ts[39m[22m
+  [1m[32m169:30-34[39m[22m
+  [1m  ├ù [tsl] [1m[31mERROR[39m[22m[1m in C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\plugins\select-sat-manager\select-sat-manager.ts(169,31)
+    Γöé       TS2339: Property 'MOON' does not exist on type 'typeof SpaceObjectType'.
+  [39m[22m
+  ts-loader-default_e8c3e4e91ab68b93
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m23:0-33[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './enums/index.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[23:14]
+   21 Γöé  * Orbital Object ToolKit. If not, see <http://www.gnu.org/licenses/>.
+   22 Γöé  */
+   23 Γöé export * from './enums/index.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   24 Γöé export * from './types/types.js';
+   25 Γöé export * from './interfaces/index.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/webworker/orbitCruncher.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m24:0-33[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './types/types.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[24:14]
+   22 Γöé  */
+   23 Γöé export * from './enums/index.js';
+   24 Γöé export * from './types/types.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   25 Γöé export * from './interfaces/index.js';
+   26 Γöé export * from './time/index.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/webworker/orbitCruncher.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m25:0-38[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './interfaces/index.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[25:14]
+   23 Γöé export * from './enums/index.js';
+   24 Γöé export * from './types/types.js';
+   25 Γöé export * from './interfaces/index.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   26 Γöé export * from './time/index.js';
+   27 Γöé export * from './transforms/index.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/webworker/orbitCruncher.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m26:0-32[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './time/index.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[26:14]
+   24 Γöé export * from './types/types.js';
+   25 Γöé export * from './interfaces/index.js';
+   26 Γöé export * from './time/index.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   27 Γöé export * from './transforms/index.js';
+   28 Γöé export * from './utils/index.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/webworker/orbitCruncher.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m27:0-38[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './transforms/index.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[27:14]
+   25 Γöé export * from './interfaces/index.js';
+   26 Γöé export * from './time/index.js';
+   27 Γöé export * from './transforms/index.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   28 Γöé export * from './utils/index.js';
+   29 Γöé export * from './operations/operations.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/webworker/orbitCruncher.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m28:0-33[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './utils/index.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[28:14]
+   26 Γöé export * from './time/index.js';
+   27 Γöé export * from './transforms/index.js';
+   28 Γöé export * from './utils/index.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   29 Γöé export * from './operations/operations.js';
+   30 Γöé export { BaseObject } from './objects/index.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/webworker/orbitCruncher.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m29:0-43[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './operations/operations.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[29:14]
+   27 Γöé export * from './transforms/index.js';
+   28 Γöé export * from './utils/index.js';
+   29 Γöé export * from './operations/operations.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   30 Γöé export { BaseObject } from './objects/index.js';
+   31 Γöé export { Earth } from './body/index.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/webworker/orbitCruncher.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m30:0-48[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './objects/index.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[30:27]
+   28 Γöé export * from './utils/index.js';
+   29 Γöé export * from './operations/operations.js';
+   30 Γöé export { BaseObject } from './objects/index.js';
+      ┬╖                            ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   31 Γöé export { Earth } from './body/index.js';
+   32 Γöé export * from './coordinate/index.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/webworker/orbitCruncher.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m31:0-40[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './body/index.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[31:22]
+   29 Γöé export * from './operations/operations.js';
+   30 Γöé export { BaseObject } from './objects/index.js';
+   31 Γöé export { Earth } from './body/index.js';
+      ┬╖                       ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   32 Γöé export * from './coordinate/index.js';
+   33 Γöé export * from './observation/index.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/webworker/orbitCruncher.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m32:0-38[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './coordinate/index.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[32:14]
+   30 Γöé export { BaseObject } from './objects/index.js';
+   31 Γöé export { Earth } from './body/index.js';
+   32 Γöé export * from './coordinate/index.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   33 Γöé export * from './observation/index.js';
+   34 Γöé export * from './data/DataHandler.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/webworker/orbitCruncher.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m33:0-39[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './observation/index.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[33:14]
+   31 Γöé export { Earth } from './body/index.js';
+   32 Γöé export * from './coordinate/index.js';
+   33 Γöé export * from './observation/index.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   34 Γöé export * from './data/DataHandler.js';
+   35 Γöé export * from './sgp4/index.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/webworker/orbitCruncher.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m34:0-38[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './data/DataHandler.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[34:14]
+   32 Γöé export * from './coordinate/index.js';
+   33 Γöé export * from './observation/index.js';
+   34 Γöé export * from './data/DataHandler.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   35 Γöé export * from './sgp4/index.js';
+   36 Γöé export * from './objects/index.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/webworker/orbitCruncher.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m35:0-32[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './sgp4/index.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[35:14]
+   33 Γöé export * from './observation/index.js';
+   34 Γöé export * from './data/DataHandler.js';
+   35 Γöé export * from './sgp4/index.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   36 Γöé export * from './objects/index.js';
+   37 Γöé export * from './body/index.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/webworker/orbitCruncher.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m38:0-38[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './operations/index.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[38:14]
+   36 Γöé export * from './objects/index.js';
+   37 Γöé export * from './body/index.js';
+   38 Γöé export * from './operations/index.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   39 Γöé export * from './force/index.js';
+   40 Γöé export * from './propagator/index.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/webworker/orbitCruncher.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m39:0-33[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './force/index.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[39:14]
+   37 Γöé export * from './body/index.js';
+   38 Γöé export * from './operations/index.js';
+   39 Γöé export * from './force/index.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   40 Γöé export * from './propagator/index.js';
+   41 Γöé export * from './orbit_determination/index.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/webworker/orbitCruncher.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m40:0-38[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './propagator/index.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[40:14]
+   38 Γöé export * from './operations/index.js';
+   39 Γöé export * from './force/index.js';
+   40 Γöé export * from './propagator/index.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   41 Γöé export * from './orbit_determination/index.js';
+   42 Γöé export * from './covariance/index.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/webworker/orbitCruncher.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m41:0-47[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './orbit_determination/index.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[41:14]
+   39 Γöé export * from './force/index.js';
+   40 Γöé export * from './propagator/index.js';
+   41 Γöé export * from './orbit_determination/index.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+   42 Γöé export * from './covariance/index.js';
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/webworker/orbitCruncher.ts
+
+  [1m[31mERROR[39m[22m in [1m./src/engine/ootk/src/main.ts[39m[22m [1m[32m42:0-38[39m[22m
+  [1m  ├ù Module [1m[31mnot found[39m[22m[1m: Can't resolve './covariance/index.js' in 'C:\Users\pownkumar\Downloads\keeptrack.space-main\keeptrack.space-main\src\engine\ootk\src'
+      Γò¡ΓöÇ[42:14]
+   40 Γöé export * from './propagator/index.js';
+   41 Γöé export * from './orbit_determination/index.js';
+   42 Γöé export * from './covariance/index.js';
+      ┬╖               ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+      Γò░ΓöÇΓöÇΓöÇΓöÇ
+  [39m[22m
+   @ ./src/webworker/orbitCruncher.ts
+
+  [1mWebWorkers[39m[22m compiled with [1m[31m72 errors[39m[22m and [1m[33m71 warnings[39m[22m
+[32mBuild completed successfully![0m
