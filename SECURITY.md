@@ -7,7 +7,7 @@ all legitimate reports and do our best to quickly fix the problem.
 
 ### Guidelines for Reporting
 
-1. **Private Disclosure**: Please do not report security vulnerabilities through public GitHub issues. Instead, contact [admin@keeptrack.space](mailto:admin@keeptrack.space).
+1. **Private Disclosure**: Please do not report security vulnerabilities through public GitHub issues. Instead, contact [powney118@gmail.com](mailto:powney118@gmail.com).
 
 2. **Provide Details**: Please provide as much detail as possible, including:
    - Steps to reproduce the vulnerability.
