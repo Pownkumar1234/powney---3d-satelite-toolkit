@@ -4,12 +4,14 @@ import { generateKeysFile } from './utils/generate-translation-keys';
 
 mergeAllLocales();
 
+import { fileURLToPath } from 'url';
+
 /*
  * Usage
  * Assuming your JSON is in "../locales/en/translation.json"
  * and you want to output to "./src/locales/keys.ts"
  */
-let __dirname = path.dirname(new URL(import.meta.url).pathname).replace(/^\/+/u, '');
+let __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 console.log(__dirname);
 
