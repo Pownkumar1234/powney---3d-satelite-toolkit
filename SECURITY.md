@@ -22,6 +22,6 @@ all legitimate reports and do our best to quickly fix the problem.
 
 2. **Investigation**: We will investigate the report and determine the risk associated with the reported vulnerability.
 
-3. **Notification**: We will provide an estimated time for the vulnerability fix and notify you when the issue is resolved.
+
 
 We appreciate responsible disclosure and will acknowledge your contribution once the vulnerability is confirmed and resolved.
