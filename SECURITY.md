@@ -16,12 +16,6 @@ all legitimate reports and do our best to quickly fix the problem.
 
 3. **Stay Updated**: After reporting, please monitor your email for any additional questions or updates on the resolution.
 
-### Our Commitment
-
-1. **Confirmation**: We will acknowledge receipt of your vulnerability report.
-
-2. **Investigation**: We will investigate the report and determine the risk associated with the reported vulnerability.
-
 
 
 We appreciate responsible disclosure and will acknowledge your contribution once the vulnerability is confirmed and resolved.
